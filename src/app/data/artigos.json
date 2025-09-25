@@ -1,0 +1,34 @@
+{
+  "artigos": [
+    {
+      "id": 1,
+      "slug": "introducao-ao-nextjs",
+      "titulo": "Introdução ao Next.js: O Framework React para Produção",
+      "descricao": "Aprenda os conceitos básicos do Next.js e como ele pode melhorar suas aplicações React.",
+      "conteudo": "Next.js é um framework React que oferece funcionalidades como renderização do lado do servidor, geração de sites estáticos e muito mais...",
+      "autor": "João Silva",
+      "dataPublicacao": "2023-10-15",
+      "imagem": "/nextjs.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "otimizacao-seo-nextjs",
+      "titulo": "Otimização SEO com Next.js: Melhores Práticas",
+      "descricao": "Descubra como melhorar o SEO de suas aplicações usando os recursos do Next.js.",
+      "conteudo": "A otimização para motores de busca (SEO) é crucial para qualquer aplicação web moderna...",
+      "autor": "Maria Santos",
+      "dataPublicacao": "2023-10-20",
+      "imagem": "/seo.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "rotas-dinamicas-nextjs",
+      "titulo": "Trabalhando com Rotas Dinâmicas no Next.js",
+      "descricao": "Aprenda a criar rotas dinâmicas e páginas com parâmetros no Next.js App Router.",
+      "conteudo": "As rotas dinâmicas são uma funcionalidade poderosa do Next.js que permite criar páginas com base em parâmetros de URL...",
+      "autor": "Pedro Alves",
+      "dataPublicacao": "2023-10-25",
+      "imagem": "/rotas.jpg"
+    }
+  ]
+}
